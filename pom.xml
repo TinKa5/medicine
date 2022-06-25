@@ -13,7 +13,7 @@
     <properties>
         <java.version>13.0.2</java.version>
         <spring.version>5.2.6.RELEASE</spring.version>
-        <mongo.version>2.1.9.RELEASE</mongo.version>
+        <mongo.version>3.3.5</mongo.version>
         <lombok.version>1.18.12</lombok.version>
         <tomcat.version>8.5.23</tomcat.version>
         <tomcat.plugin.version>2.2</tomcat.plugin.version>
